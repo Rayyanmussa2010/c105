@@ -1,0 +1,18 @@
+.heading{
+width: 80%;
+font-size: 30px;
+font-family: monospace;
+}
+body{
+color: black;
+background: yellow;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+color: blue;
+background: yellow;
+}
+#camera{
+border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
